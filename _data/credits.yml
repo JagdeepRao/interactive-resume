@@ -1,0 +1,16 @@
+text: 
+- This whole static website creator concept rocks! Earlier, I have used CMS like AEM, JSPs and even 
+  wrote my own HTMLs, but this by far is a sweet spot.
+
+- I github pages + Jekyll = almost certainly the cheapest and fastest way to build websites. 
+  
+- Sure you can use Cloudfront to upload your content, but then you are essentially stuck with Single Page Applications.
+  You could use AWS with AEM or any other CMS, you end up paying for an AP server and you need to solve the whole issue 
+  related to how would you like to cache contents.
+  
+- Jekyll with Github was absolutely painless. From start to finish, after I found the right theme, I was pretty much 
+  done in 4 hours. Spent about 2 hours on content, essentially moving content from my old resume and classifying it under
+  the right tag/metadata such that folks can read appropriate content. 
+  
+- Now would I use this is my real job? Depends! COTS products like AEM and other CMSs have "mindshare" and also
+  lot of money gets spent on marketing, alliances and certifications. 

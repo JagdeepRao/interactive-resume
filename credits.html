@@ -1,0 +1,16 @@
+---
+layout: not_homepage
+quote: If I have seen further it is by standing on ye sholders of Giants.
+author: Issac Newton
+---
+
+{% include quote.html quote=page.quote author=page.author %}
+
+<div class="container credits_section">
+    <div class="credits_paragraph">
+        <% for para in site.data.credits %>
+        <p class="description col s9 m10> {{ para }} </p>
+        <% endfor %>
+    </div>
+</div>
+
