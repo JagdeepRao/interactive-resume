@@ -1,0 +1,30 @@
+#projects:
+#  url: /projects
+#  heading: Work 
+#  words: Details of work that I have done till date
+#  class: m7 projects
+#  border: projects
+about:
+  url: /about
+  heading: Me
+  words: Hi, I'm an intrapreneur who has worked in emerging technologies
+  class: m12 projects
+  border: about
+resume:
+  url: /resume
+  heading: Resume
+  words: My resumes in various levels of detail and formats
+  class: m12 contact
+  border: algorithms
+credits:
+ url: /credits
+ heading: Credits
+ words: Credits for these contributors to the open source community
+ class: m12 projects
+ border: about
+#contact:
+#  url: /contact
+#  heading: Contact
+#  words: Feel free to shoot me an email
+#  class: m6 contact
+#  border: contact

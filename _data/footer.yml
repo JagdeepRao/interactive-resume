@@ -1,0 +1,8 @@
+text: It's built using Jekyll framework, and various styling and javascript libraries including jquery, materialize and barba.js. Major thanks to <a class="footer_description_link" href="https://www.linkedin.com/in/levytsroman/">Roman Levytskyy</a> for his theme <a class="footer_description_link" href="https://github.com/LevytsRoman/levytsroman.github.io">LevytsRoman</a>. Endless hours of styling were saved because of his efforts.
+text1: It's built using Jekyll framework, and various styling and javascript libraries including jquery, materialize and barba.js. Major thanks to <a class="{{site.data.footer.anchorstyle}}" href="{{site.data.footer.authorlink}}">{{site.data.footer.author}}</a> for his theme <a class="footer_description_link" href="https://github.com/LevytsRoman/levytsroman.github.io">LevytsRoman</a>. Endless hours of styling were saved because of his efforts.
+author: Roman Levytskyy
+authorlink: https://www.linkedin.com/in/levytsroman/
+theme: LevytsRoman
+themelink: https://github.com/LevytsRoman/levytsroman.github.io
+anchorstyle: footer_description_link
+info: Click <a class="{{}}" href="">here</a> for customizations that have been done and the rationale behind the same.
